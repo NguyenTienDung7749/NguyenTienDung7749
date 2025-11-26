@@ -26,7 +26,7 @@
 
 > **💡 Pro Tip:** Mở music player ở tab mới, quay lại đây để vừa nghe nhạc vừa xem code! 🎶
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+### ⚡ CODE • MUSIC • FIRE MODE ⚡
 
 </div>
 
