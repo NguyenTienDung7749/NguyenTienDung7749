@@ -90,13 +90,12 @@ const dzung9f = {
 
 ## 📊 GITHUB STATS - THỐNG KÊ LỬA 🔥
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NguyenTienDung7749&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF6B35&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NguyenTienDung7749&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF6B35&text_color=FFFFFF&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTienDung7749&theme=radical&hide_border=true&background=0D1117&stroke=FF4500&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTienDung7749&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=NguyenTienDung7749&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&layout=compact" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTienDung7749&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
