@@ -26,7 +26,7 @@
 
 > **💡 Pro Tip:** Mở music player ở tab mới, quay lại đây để vừa nghe nhạc vừa xem code! 🎶
 
-### ⚡ CODE • MUSIC • FIRE MODE ⚡
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
 </div>
 
@@ -90,11 +90,12 @@ const dzung9f = {
 
 ## 📊 GITHUB STATS - THỐNG KÊ LỬA 🔥
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenTienDung7749&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF6B35&text_color=FFFFFF&include_all_commits=true&count_private=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NguyenTienDung7749&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF6B35&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTienDung7749&theme=radical&hide_border=true&background=0D1117&stroke=FF4500&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=NguyenTienDung7749&theme=radical&hide_border=true&background=0D1117&stroke=FF4500&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTienDung7749&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&langs_count=8)
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTienDung7749&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
