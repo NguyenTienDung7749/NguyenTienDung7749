@@ -124,7 +124,7 @@ const dzung9f = {
 
 <div align="center">
 
-## 💭 PHILOSOPHY - TRIẾT LÝ SỐNG
+## 💭 PHILOSOPHY - TRIẾT LÝ MÕM
 
 <table>
 <tr>
@@ -133,8 +133,8 @@ const dzung9f = {
 ### 🔥 Fire Mindset
 **"Phải có ý chí thì mới bước lên đỉnh cao"**
 
-Không ngừng học hỏi, không ngừng vươn lên.
-Mỗi dòng code là một bước tiến.
+Sống làm sao thì phải sống cho chất.
+Đừng chưa cho đi mà đã sợ lo mất.
 
 </td>
 <td align="center" width="50%">
@@ -142,15 +142,14 @@ Mỗi dòng code là một bước tiến.
 ### 🎵 Code with Music
 **Code + Music = Fire Mode**
 
-Âm nhạc là nguồn cảm hứng.
-Code là nghệ thuật.
-Kết hợp = Đỉnh cao!
+Trong xã hội này nhiều cám dỗ đang bủa vây.
+Nếu không tỉnh táo mày chỉ có đo đất.
 
 </td>
 </tr>
 </table>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic&author=Dzung9f" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Phải%20có%20ý%20chí%20thì%20mới%20bước%20lên%20đỉnh%20cao&author=Dzung9f" />
 
 </div>
 
