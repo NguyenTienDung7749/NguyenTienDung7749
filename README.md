@@ -14,11 +14,11 @@
 
 ### 👇 Click vào đây để mở Music Player bốc lửa 👇
 
-<a href="https://NguyenTienDung7749.github.io/">
+<a href="https://dzung9f.me/music/">
   <img src="https://img.shields.io/badge/🔥_FIRE_MODE-BẬT_NHẠC_BAY_LẮC-FF4500?style=for-the-badge&logo=spotify&logoColor=white&labelColor=8B0000&borderRadius=10" height="50" alt="Fire Music Player" />
 </a>
 
-<a href="https://NguyenTienDung7749.github.io/">
+<a href="https://dzung9f.me/music/">
   <img src="https://img.shields.io/badge/🎧_MUSIC_ZONE-KHÔNG_GIAN_RIÊNG_CỦA_CỤ-FF6B35?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=8B0000" height="50" alt="Music Zone" />
 </a>
 
@@ -44,12 +44,74 @@ const dzung9f = {
     location: "Vietnam 🇻🇳",
     education: "BTEC FPT",
     role: "Student Developer",
-    interests: ["Coding", "Music", "Gaming", "Algorithm"],
+    interests: ["Coding", "Music", "Gaming", "Algorithm", "IoT"],
     currentFocus: "Data Structures & Algorithms",
     lifeStyle: "Code + Music = Fire Mode 🎵🔥",
-    mindset: "Never stop learning, never stop rising 🚀"
+    mindset: "Never stop learning, never stop rising 🚀",
+    websites: {
+        portfolio: "dzung9f.me",
+        music: "dzung9f.me/music/",
+        iot: "iot.dzung9f.me"
+    }
 };
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 MY WEBSITES - CÁC TRANG WEB CỦA CỤ
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔥 Personal Portfolio
+**[dzung9f.me](https://dzung9f.me)**
+
+<a href="https://dzung9f.me">
+  <img src="https://img.shields.io/badge/🔥_PORTFOLIO-TRANG_CÁ_NHÂN-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=8B0000" height="45" alt="Portfolio" />
+</a>
+
+> 💼 Hồ sơ cá nhân, dự án & kinh nghiệm
+
+</td>
+<td align="center" width="33%">
+
+### 🎵 Music Zone
+**[dzung9f.me/music](https://dzung9f.me/music/)**
+
+<a href="https://dzung9f.me/music/">
+  <img src="https://img.shields.io/badge/🎧_MUSIC_PLAYER-NHẠC_CỦA_CỤ-FF6B35?style=for-the-badge&logo=spotify&logoColor=white&labelColor=8B0000" height="45" alt="Music" />
+</a>
+
+> 🎶 Music player cá nhân - nghe nhạc thả ga
+
+</td>
+<td align="center" width="33%">
+
+### 🏠 IoT Project
+**[iot.dzung9f.me](https://iot.dzung9f.me)**
+
+<a href="https://iot.dzung9f.me">
+  <img src="https://img.shields.io/badge/🤖_IOT_PROJECT-GIÀN_PHƠI_THÔNG_MINH-00D9FF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00599C" height="45" alt="IoT" />
+</a>
+
+> 🌐 Dự án giàn phơi thông minh với IoT
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚡ Quick Access - Truy cập nhanh
+
+[![Portfolio](https://img.shields.io/badge/👤_Profile-dzung9f.me-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dzung9f.me)
+[![Music](https://img.shields.io/badge/🎵_Music-dzung9f.me/music-FF6B35?style=for-the-badge&logo=spotify&logoColor=white)](https://dzung9f.me/music/)
+[![IoT](https://img.shields.io/badge/🤖_IoT-iot.dzung9f.me-00D9FF?style=for-the-badge&logo=arduino&logoColor=white)](https://iot.dzung9f.me)
 
 </div>
 
@@ -161,13 +223,30 @@ Nếu không tỉnh táo mày chỉ có đo đất.
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/NguyenTienDung7749?tab=repositories">
-<img src="https://img.shields.io/badge/📦_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+<a href="https://dzung9f.me">
+<img src="https://img.shields.io/badge/🔥_Portfolio-dzung9f.me-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/>
 </a>
 </td>
 <td align="center">
-<a href="https://NguyenTienDung7749.github.io/">
-<img src="https://img.shields.io/badge/🎵_Music_Zone-FF4500?style=for-the-badge&logo=spotify&logoColor=white" height="40"/>
+<a href="https://dzung9f.me/music/">
+<img src="https://img.shields.io/badge/🎵_Music_Zone-dzung9f.me/music-FF6B35?style=for-the-badge&logo=spotify&logoColor=white" height="40"/>
+</a>
+</td>
+<td align="center">
+<a href="https://iot.dzung9f.me">
+<img src="https://img.shields.io/badge/🤖_IoT_Project-iot.dzung9f.me-00D9FF?style=for-the-badge&logo=arduino&logoColor=white" height="40"/>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/NguyenTienDung7749?tab=repositories">
+<img src="https://img.shields.io/badge/📦_All_Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+</a>
+</td>
+<td align="center" colspan="2">
+<a href="https://github.com/NguyenTienDung7749?tab=stars">
+<img src="https://img.shields.io/badge/⭐_Starred_Repos-Favorite_Projects-FFA500?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
 </td>
 </tr>
@@ -181,9 +260,10 @@ Nếu không tỉnh táo mày chỉ có đo đất.
 
 ## 🌐 CONNECT WITH ME - KẾT NỐI VỚI CỤ
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenTienDung7749)
-[![Music Zone](https://img.shields.io/badge/🔥_Fire_Music_Player-FF4500?style=for-the-badge)](https://NguyenTienDung7749.github.io/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://NguyenTienDung7749.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-NguyenTienDung7749-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenTienDung7749)
+[![Portfolio](https://img.shields.io/badge/🔥_Portfolio-dzung9f.me-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dzung9f.me)
+[![Music Zone](https://img.shields.io/badge/🎵_Music-dzung9f.me/music-FF6B35?style=for-the-badge&logo=spotify&logoColor=white)](https://dzung9f.me/music/)
+[![IoT Project](https://img.shields.io/badge/🤖_IoT-iot.dzung9f.me-00D9FF?style=for-the-badge&logo=arduino&logoColor=white)](https://iot.dzung9f.me)
 
 ---
 
