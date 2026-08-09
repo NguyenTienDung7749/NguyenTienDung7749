@@ -32,6 +32,3 @@ I enjoy turning ideas into working products — from web systems and Android app
 | **[SIMS](https://github.com/NguyenTienDung7749/SIMS_APDP_Group5)** · [Live](https://apdp.dzung9f.me) | Student Information Management System with role-based workflows, clean architecture and **412 automated tests** | ASP.NET Core 8 MVC · C# · CSV · xUnit |
 | **[AI Study Mentor](https://github.com/NguyenTienDung7749/AI_Mentor)** | Personalized Android learning app with AI Q&A, image questions, quizzes, offline support and progress tracking | Java · Android · Room · Retrofit · Groq · Mistral |
 | **[Novel Polisher](https://github.com/NguyenTienDung7749/NovelPolisher)** | Windows tool that extracts PDF text and polishes Vietnamese novel prose with Gemini AI | Python · .NET 8 · WPF · Gemini |
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=NguyenTienDung7749&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTienDung7749&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
-</div>
