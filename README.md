@@ -35,7 +35,3 @@ I enjoy turning ideas into working products — from web systems and Android app
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=NguyenTienDung7749&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTienDung7749&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
 </div>
-
-<div align="center">
-  <sub>Build things. Learn fast. Keep improving.</sub>
-</div>
